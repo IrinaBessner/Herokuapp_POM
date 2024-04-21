@@ -1,0 +1,9 @@
+com\herokuapp\pages\BasePage.class
+com\herokuapp\pages\BrokenImagesPage.class
+com\herokuapp\pages\FileUploadPage.class
+com\herokuapp\pages\Homepage.class
+com\herokuapp\pages\NewTabPage.class
+com\herokuapp\pages\DragAndDropPage.class
+com\herokuapp\pages\JSAlertsPage.class
+com\herokuapp\pages\CheckboxesPage.class
+com\herokuapp\pages\DropDownMenuPage.class

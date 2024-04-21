@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-21T23:58:40 MESZ" name="Smoky" finished-at="2024-04-21T23:59:02 MESZ" duration-ms="21402">
+    <groups>
+    </groups>
+    <test started-at="2024-04-21T23:58:40 MESZ" name="Smoky" finished-at="2024-04-21T23:59:02 MESZ" duration-ms="21402">
+      <class name="com.herokuapp.tests.JSAlertsTests">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.herokuapp.tests.JSAlertsTests@378542de]" started-at="2024-04-21T23:58:41 MESZ" name="init" finished-at="2024-04-21T23:58:49 MESZ" duration-ms="8086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:com.herokuapp.tests.JSAlertsTests@378542de]" started-at="2024-04-21T23:58:49 MESZ" name="precondition" finished-at="2024-04-21T23:58:50 MESZ" duration-ms="978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="JSAConfirm()[pri:0, instance:com.herokuapp.tests.JSAlertsTests@378542de]" started-at="2024-04-21T23:58:50 MESZ" name="JSAConfirm" finished-at="2024-04-21T23:58:50 MESZ" duration-ms="803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JSAConfirm -->
+        <test-method is-config="true" signature="init()[pri:0, instance:com.herokuapp.tests.JSAlertsTests@378542de]" started-at="2024-04-21T23:58:50 MESZ" name="init" finished-at="2024-04-21T23:58:55 MESZ" duration-ms="4630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:com.herokuapp.tests.JSAlertsTests@378542de]" started-at="2024-04-21T23:58:55 MESZ" name="precondition" finished-at="2024-04-21T23:58:56 MESZ" duration-ms="478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="JSAlert()[pri:0, instance:com.herokuapp.tests.JSAlertsTests@378542de]" started-at="2024-04-21T23:58:56 MESZ" name="JSAlert" finished-at="2024-04-21T23:58:56 MESZ" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JSAlert -->
+        <test-method is-config="true" signature="init()[pri:0, instance:com.herokuapp.tests.JSAlertsTests@378542de]" started-at="2024-04-21T23:58:56 MESZ" name="init" finished-at="2024-04-21T23:59:01 MESZ" duration-ms="4966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:com.herokuapp.tests.JSAlertsTests@378542de]" started-at="2024-04-21T23:59:01 MESZ" name="precondition" finished-at="2024-04-21T23:59:01 MESZ" duration-ms="482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="JSPromt()[pri:0, instance:com.herokuapp.tests.JSAlertsTests@378542de]" started-at="2024-04-21T23:59:01 MESZ" name="JSPromt" finished-at="2024-04-21T23:59:02 MESZ" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JSPromt -->
+      </class> <!-- com.herokuapp.tests.JSAlertsTests -->
+    </test> <!-- Smoky -->
+  </suite> <!-- Smoky -->
+</testng-results>
